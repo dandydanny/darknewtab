@@ -1,6 +1,6 @@
 {
   "name": "Dark New Tab",
-  "description": "Override the new tab page with a blank page, with black background that slowly fades to grey",
+  "description": "A minimalistic grey new tab page for Google Chrome. No external network requests. No analytics. No tracking. No bullshit.",
   "version": "1.1",
   "incognito": "split",
   "chrome_url_overrides": { "newtab": "darknewtab.html" },

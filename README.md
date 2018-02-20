@@ -1,6 +1,6 @@
 # Dark New Tab
 
-A minimalistic new tab page for Google Chrome. No external network requests. No analytics. No tracking. No bullshit.
+A minimalistic grey new tab page for Google Chrome. No external network requests. No analytics. No tracking. No bullshit.
 
 ### What?
 1. A minimalistic new tab page replacement for Chrome.
