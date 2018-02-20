@@ -1,0 +1,8 @@
+{
+  "name": "Dark New Tab",
+  "description": "Override the new tab page with a blank page, with black background that slowly fades to grey",
+  "version": "1.1",
+  "incognito": "split",
+  "chrome_url_overrides": { "newtab": "darknewtab.html" },
+  "manifest_version": 2
+}
