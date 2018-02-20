@@ -17,6 +17,7 @@ Some new tab page extensions can be slow to launch if system is low on resources
 
 ### Changelog
 v1.2 - Initial limited release on Chrome Web Store; mouserOver brightness boost removedA
+
 v1.1 - Initial, unreleased code for personal use
  
 
