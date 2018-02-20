@@ -16,9 +16,8 @@ Some new tab page extensions can be slow to launch if system is low on resources
 [Get it from the Chrome Web Store](https://chrome.google.com/webstore/detail/dark-new-tab/mnjmegebbljjhpljjfjmkhgmokpmdbpo?hl=en-US&gl=US)
 
 ### Changelog
-v1.2 - Initial limited release on Chrome Web Store; mouserOver brightness boost removedA
-
-v1.1 - Initial, unreleased code for personal use
+* v1.2 - Initial limited release on Chrome Web Store; mouserOver brightness boost removedA
+* v1.1 - Initial, unreleased code for personal use
  
 
 ### About
