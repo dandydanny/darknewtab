@@ -13,7 +13,7 @@ Some new tab page extensions can be slow to launch if system is low on resources
 1. I don't want to be binded by a white page whenever I open a new tab
 
 ### Where?
-[Get it from the Chrome Web Store)[https://chrome.google.com/webstore/detail/dark-new-tab/mnjmegebbljjhpljjfjmkhgmokpmdbpo?hl=en-US&gl=US]
+(Get it from the Chrome Web Store)[https://chrome.google.com/webstore/detail/dark-new-tab/mnjmegebbljjhpljjfjmkhgmokpmdbpo?hl=en-US&gl=US]
 
 ### About
 Daniel is a web developer seeking opportunities, beverage socials, and late-night taco runs.
