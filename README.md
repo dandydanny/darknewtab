@@ -1,5 +1,5 @@
 # Dark New Tab
-![image](https://github.com/dandydanny/darknewtab/blob/master/darknewtab_github_screen_ani.png)
+![image](https://github.com/dandydanny/darknewtab/blob/master/darknewtab_github_screen_ani.gif)
 A minimalistic grey new tab page for Google Chrome. No external network requests. No analytics. No tracking. No bullshit.
 
 ### What?
