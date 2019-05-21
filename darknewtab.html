@@ -1,5 +1,11 @@
 <html>
-<title>Dark New Tab</title>
+<!--
+Chromium Browsers display "chrome://newtab" or "New Tab" as the title if
+no title is supplied, or if the title is just white space. As a workaround,
+we use a special whitespace character as the title.
+http://en.wikipedia.org/wiki/Space_(punctuation)
+-->
+<title>&#65279;</title>
 <style>
 	@keyframes turnUpBrightness {
 		from {background-color:hsla(0, 0%, 0%, 1)}
